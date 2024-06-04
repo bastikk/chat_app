@@ -1,6 +1,6 @@
 # ChatApp
 
-**TODO: Add description**
+mix run --no-halt
 
 ## Installation
 
