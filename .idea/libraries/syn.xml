@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="syn" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/syn/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/syn/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/syn/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/syn/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/syn/src" />
+      <root url="file://$PROJECT_DIR$/deps/syn/src" />
+    </SOURCES>
+  </library>
+</component>
